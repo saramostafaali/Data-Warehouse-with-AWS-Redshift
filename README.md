@@ -6,7 +6,7 @@ A music streaming startup, Sparkify, has grown their user base and song database
 
 # Project Description
 
-i will an ETL pipeline that extracts their data from S3, stages them in Redshift, and transforms data into a set of dimensional tables for their analytics team to continue finding insights into what songs their users are listening to.
+i will build an ETL pipeline that extracts their data from S3, stages them in Redshift, and transforms data into a set of dimensional tables for their analytics team to continue finding insights into what songs their users are listening to.
 
 
 ## Project Datasets
